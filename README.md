@@ -125,6 +125,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
+<p align="center"><i>The grind never stops.</i></p>
   <img src="https://raw.githubusercontent.com/SmitShah236/SmitShah236/output/github-contribution-grid-snake.svg" />
 </div>
 
