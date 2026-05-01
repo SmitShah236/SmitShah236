@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Minimal Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3B82F6&height=180&section=header&text=SmitShah236&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3B82F6&height=180&section=header&text=Toxic&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
   <br/>
 
@@ -21,7 +21,32 @@
 
 </div>
 
+## 🧠 About Me
+
+- 💻 I build things that _actually do stuff_
+- 🌙 Peak productivity: 2AM chaos hours
+- 🐛 Bugs fear me (they shouldn’t, but still)
+- 🎯 Goal: ship something people use daily
+
 ---
+
+## ⚡ Live Dev Dashboard
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SmitShah236&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0F&title_color=C026D3&text_color=C4B5FD&icon_color=A855F7" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SmitShah236&theme=radical&hide_border=true&background=0A0A0F&stroke=C026D3&ring=A855F7&fire=F472B6&currStreakNum=C4B5FD" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SmitShah236&theme=radical" />
+
+</div>
 
 ### 🛠️ Tech Arsenal
 
@@ -77,11 +102,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SmitShah236&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0F&title_color=C026D3&text_color=C4B5FD&icon_color=A855F7" alt="GitHub Stats" height="195" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=SmitShah236&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0F&title_color=C026D3&text_color=C4B5FD&icon_color=A855F7" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmitShah236&theme=radical&hide_border=true&background=0A0A0F&stroke=C026D3&ring=A855F7&fire=F472B6&currStreakNum=C4B5FD" alt="Streak Stats" height="195" />
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=SmitShah236&theme=radical&hide_border=true&background=0A0A0F&stroke=C026D3&ring=A855F7&fire=F472B6&currStreakNum=C4B5FD" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitShah236&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0F&title_color=C026D3&text_color=C4B5FD" alt="Top Languages" height="195" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitShah236&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0F&title_color=C026D3&text_color=C4B5FD" />
 
 </div>
 
@@ -90,15 +115,17 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/SmitShah236/SmitShah236/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-  <p><em>Snake eating my contributions</em></p>
+  <img src="https://raw.githubusercontent.com/SmitShah236/SmitShah236/output/github-contribution-grid-snake.svg" />
 </div>
-
-*(Set up the GitHub Action to auto-update the snake daily — instructions below)*
 
 ---
 
 <div align="center">
-  <h3>Built with late-night energy, AI magic, and a touch of supernatural chaos 👁️‍🗨️</h3>
-  <p>Currently hunting bugs in the matrix... See you at 2AM 🔥</p>
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<br/><br/>
+
+<b>“If it works, don't touch it. If it doesn't work, touch everything.”</b>
+
 </div>
