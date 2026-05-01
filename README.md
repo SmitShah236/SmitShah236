@@ -28,6 +28,26 @@
 - 🐛 Bugs fear me (they shouldn’t, but still)
 - 🎯 Goal: ship something people use daily
 
+## 🧪 Currently Cooking
+
+- 🤖 Building: Discord bots with custom game systems & automation
+- ⚙️ Experimenting with: scraping, AI pipelines, and backend scaling
+- 🔥 Breaking: things that _should_ work but don’t
+- 🧠 Learning: how to make systems faster, not just bigger
+
+## 🚀 What I’ve Built
+
+- 🧠 AI analytics tools for data insights & forecasting
+- 🤖 Discord bots with complex logic, economy systems & events
+- 📦 Inventory management systems with role-based access
+- 🌐 Full-stack apps with API-heavy backend architecture
+
+## ⚡ Dev Philosophy
+
+- If it works → don’t touch it
+- If it breaks → touch everything
+- Clean code is cool, but working code is cooler
+
 ---
 
 ### 🛠️ Tech Arsenal
