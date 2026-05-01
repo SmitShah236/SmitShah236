@@ -85,7 +85,7 @@
 
 ### 🐍 Contribution Snake
 
-![Snake eating my contributions](https://github.com/Toxic/Toxic/blob/output/github-contribution-grid-snake.svg)
+![Snake eating my contributions](https://github.com/SmitShah236/SmitShah236/blob/output/github-contribution-grid-snake.svg)
 
 *(Set up the GitHub Action to auto-update this daily — see instructions below)*
 
