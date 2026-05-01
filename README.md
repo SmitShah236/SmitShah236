@@ -102,7 +102,7 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SmitShah236&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0F&title_color=C026D3&text_color=C4B5FD&icon_color=A855F7&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SmitShah236&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0F&title_color=C026D3&text_color=C4B5FD&icon_color=A855F7&cache_seconds=1800" />
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SmitShah236&theme=radical&hide_border=true&background=0A0A0F&stroke=C026D3&ring=A855F7&fire=F472B6&currStreakNum=C4B5FD&cache_seconds=1800" />
 
@@ -112,6 +112,6 @@
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitShah236&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0F&title_color=C026D3&text_color=C4B5FD&cache_seconds=1800" />
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SmitShah236&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0F&title_color=C026D3&text_color=C4B5FD&cache_seconds=1800" />
 
 </div>
