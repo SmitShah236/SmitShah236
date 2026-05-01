@@ -5,7 +5,7 @@
   <!-- Header with subtle anime/supernatural vibe -->
   <img src="https://capsule-render.vercel.app/api?type=soft&color=6B46C1&height=220&section=header&text=Toxic&fontSize=90&fontColor=ffffff&animation=fadeIn" alt="Header" />
 
-  <h2>🌌 Some good line with AI and Vibe coding and whatnot</h2>
+  <h2>🌌 If it works, don't touch it. If it doesn't work, touch everything.</h2>
   <p><em>Vibe coding with AI under neon lights | Fixing bugs at 2AM because the code won't exorcise itself 🪄</em></p>
 
   <p>
