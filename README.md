@@ -122,10 +122,7 @@
 
 <div align="center">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-<br/><br/>
-
-<b>“If it works, don't touch it. If it doesn't work, touch everything.”</b>
+  <h3>⚡ Built on caffeine, chaos, and questionable decisions</h3>
+  <p><i>Still shipping code at 2AM like it's a lifestyle choice</i></p>
 
 </div>
