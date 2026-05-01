@@ -1,12 +1,23 @@
 <div align="center">
 
-  <!-- Neon Header -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=7C3AED&height=240&section=header&text=SmitShah236&fontSize=85&fontColor=ffffff&animation=blinking" alt="Header" />
+  <!-- Minimal Gradient Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3B82F6&height=180&section=header&text=SmitShah236&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
-  <h2>🌌 AI-Powered Vibe Coder | Debugging Demons at 2AM</h2>
-  <p><em>Turning caffeine into code • Chasing bugs like Winchester brothers • Late-night AI sorcerer</em></p>
+  <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=SmitShah236&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+  <!-- Typing Effect Subtitle -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+Engineer+in+the+Making;Building+cool+stuff+at+2AM;Professional+Bug+Hunter;Code.+Break.+Fix.+Repeat." />
+
+  <br/>
+
+  <!-- Clean Tagline -->
+  <p><b><i>"If it works, don't touch it. If it doesn't work, touch everything."</i></b></p>
+
+  <br/>
+
+  <!-- Stats Badges (clean, not cringe overload) -->
+  <img src="https://img.shields.io/github/followers/SmitShah236?style=for-the-badge&color=7C3AED&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/github/stars/SmitShah236?style=for-the-badge&color=3B82F6&labelColor=1a1a1a" />
 
 </div>
 
