@@ -1,16 +1,12 @@
-<!-- GitHub Profile README - Toxic -->
-
 <div align="center">
 
-  <!-- Header with subtle anime/supernatural vibe -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=6B46C1&height=220&section=header&text=Toxic&fontSize=90&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <!-- Neon Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=7C3AED&height=240&section=header&text=SmitShah236&fontSize=85&fontColor=ffffff&animation=blinking" alt="Header" />
 
-  <h2>🌌 If it works, don't touch it. If it doesn't work, touch everything.</h2>
-  <p><em>Vibe coding with AI under neon lights | Fixing bugs at 2AM because the code won't exorcise itself 🪄</em></p>
+  <h2>🌌 AI-Powered Vibe Coder | Debugging Demons at 2AM</h2>
+  <p><em>Turning caffeine into code • Chasing bugs like Winchester brothers • Late-night AI sorcerer</em></p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Toxic&label=Profile%20Views&color=6B46C1&style=for-the-badge" alt="Profile Views" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=SmitShah236&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -23,9 +19,9 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -42,7 +38,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**AI/ML**  
+**AI / Machine Learning**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -70,14 +66,11 @@
 
 <div align="center">
 
-  <!-- GitHub Stats (dark + vibrant) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Toxic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=C084FC&text_color=DBEAFE&icon_color=A78BFA" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SmitShah236&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0F&title_color=C026D3&text_color=C4B5FD&icon_color=A855F7" alt="GitHub Stats" height="195" />
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxic&theme=tokyonight&hide_border=true&background=0A0A0A&stroke=C084FC&ring=A78BFA&fire=DBEAFE&currStreakNum=DBEAFE" alt="Streak Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmitShah236&theme=radical&hide_border=true&background=0A0A0F&stroke=C026D3&ring=A855F7&fire=F472B6&currStreakNum=C4B5FD" alt="Streak Stats" height="195" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=C084FC&text_color=DBEAFE" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitShah236&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0F&title_color=C026D3&text_color=C4B5FD" alt="Top Languages" height="195" />
 
 </div>
 
@@ -85,15 +78,16 @@
 
 ### 🐍 Contribution Snake
 
-![Snake eating my contributions](https://github.com/SmitShah236/SmitShah236/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/SmitShah236/SmitShah236/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <p><em>Snake eating my contributions</em></p>
+</div>
 
-*(Set up the GitHub Action to auto-update this daily — see instructions below)*
+*(Set up the GitHub Action to auto-update the snake daily — instructions below)*
 
 ---
 
 <div align="center">
-  <h3>Built with late-night energy, AI vibes, and a bit of supernatural chaos.</h3>
-  <p>Currently hunting bugs in the matrix... come back at 2AM for the real show 👀</p>
+  <h3>Built with late-night energy, AI magic, and a touch of supernatural chaos 👁️‍🗨️</h3>
+  <p>Currently hunting bugs in the matrix... See you at 2AM 🔥</p>
 </div>
-
-<!-- Optional: Add a subtle footer GIF or image if you find a cool dark anime/neon one later -->
