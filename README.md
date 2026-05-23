@@ -25,21 +25,20 @@
 
 - 💻 I build things that _actually do stuff_
 - 🌙 Peak productivity: 2AM chaos hours
-- 🐛 Bugs fear me (they shouldn’t, but still)
-- 🎯 Goal: ship something people use daily
+- 🎯 Goal: ship something people actually use
 
 ## 🧪 Currently Cooking
 
 - 🤖 Building: Discord bots with custom game systems & automation
-- ⚙️ Experimenting with: scraping, AI pipelines, and backend scaling
+- ⚙️ Experimenting with: Web Scraping, AI pipelines, and backend scaling
 - 🔥 Breaking: things that _should_ work but don’t
-- 🧠 Learning: how to make systems faster, not just bigger
+- 🧠 Learning: stuff I haven't already
 
-## 🚀 What I’ve Built
+## 🚀 What I’ve Built and Worked on
 
 - 🧠 AI analytics tools for data insights & forecasting
 - 🤖 Discord bots with complex logic, economy systems & events
-- 📦 Inventory management systems with role-based access
+- 📦 Inventory management systems and CRMs
 - 🌐 Full-stack apps with API-heavy backend architecture
 
 ## ⚡ Dev Philosophy
